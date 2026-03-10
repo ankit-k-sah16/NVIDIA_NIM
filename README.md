@@ -1,4 +1,4 @@
-## Grenerating a GenAI Application using the NVIDIA NIM .
+## Creating a GenAI Application using the NVIDIA NIM .
 
 ### NIM is a set of pre-built, containerized, and optimized software services designed to accelerate the deployment of generative AI models (such as LLMs) across various environments, including cloud, data centers, and workstations.
 
